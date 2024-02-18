@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab50fb8a76c4b124e885beeaeded8d8c, type: 3}
+  m_Name: ExampleFloatMatrix
+  m_EditorClassIdentifier: 
+  type: 1
+  matrixElements:
+  - name: Skill #1
+  - name: Skill #2
+  - name: Perk #1
+  - name: Perk #2
+  serializedBoolMatrix: 00000000000000000000000000000000
+  serializedFloatMatrix:
+  - 1.3
+  - 6.5
+  - 0.9
+  - 0
+  - 9.8
+  - 2.76
+  - 0
+  - 0.9
+  - 1.99
+  - 0
+  - 2.76
+  - 6.5
+  - 0
+  - 1.99
+  - 9.8
+  - 1.3
+  serializedIntMatrix: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
